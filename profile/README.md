@@ -18,8 +18,6 @@
 
 <br/>
 
-This repository contains the resources and questions from past contests, held from 2-3PM UK Time on HackerRank.
-
 **We are now part of [STACS](https://www.facebook.com/StACompSoc)**. Our events will continue normally, but this means that every STACS member is officially a part of CPSTA. There are other benefits as well.
 
 **Accessibility issues?** If you have a condition (eg visually impaired, or even otherwise) that you think is causing you difficulty in taking part in any of our our events or contests, please let cpsta@st-andrews.ac.uk know. We'll do what we can to ensure that you can take part in all our events.
@@ -36,7 +34,7 @@ It is a programming competition of approximately one hour where you solve fun an
 
 ### Past contests
 
-They can be found [here](/Competitions). Analysis, and in some cases, solutions and editorials can be found there. If not here, they can be found on the contest page itself (under the "Editorial" section), where test cases can also be downloaded.
+They can be found [here](https://github.com/STAOJ/St-Andrews-Competitive-Programming/blob/master/Competitions). Analysis, and in some cases, solutions and editorials can be found there. If not here, they can be found on the contest page itself (under the "Editorial" section), where test cases can also be downloaded.
 
 ### Past winners
 
@@ -44,7 +42,7 @@ The leaderboard for each contest can be found on the contest page itself.
 
 ### Support and sponsorships
 
-In the past, we have worked with hackathons like Hack Quarantine ([Contest 11](/Competitions/Competition%2011%20%5B29%20March%202020%5D/readme.md) and [Contest 12](/Competitions/Competition%2012%20[5%20Apr%202020]/readme.md)) and The Open Code Foundation ([Contest 19](/Competitions/Competition%2019%20[24%20May%202020]/readme.md)).
+In the past, we have worked with hackathons like Hack Quarantine ([Contest 11](https://github.com/STAOJ/St-Andrews-Competitive-Programming/blob/master/Competitions/Competition%2011%20%5B29%20March%202020%5D/readme.md) and [Contest 12](https://github.com/STAOJ/St-Andrews-Competitive-Programming/blob/master/Competitions/Competition%2012%20%5B5%20Apr%202020%5D/readme.md)) and The Open Code Foundation ([Contest 19](https://github.com/STAOJ/St-Andrews-Competitive-Programming/blob/master/Competitions/Competition%2019%20%5B24%20May%202020%5D/readme.md)).
 
 Upon request, we can create custom contests for hackathons and organisations, and possibly provide other support as well (like workshops and talks). For more information about us and for potential sponsorship opportunities, feel free to email cpsta@st-andrews.ac.uk.
 
