@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/updated-logo.png" width="200" height="200">
+  <img src="https://github.com/STAOJ/St-Andrews-Competitive-Programming/blob/master/assets/updated-logo.png" width="200" height="200">
 </p>
 
 <h1 align="center">Competitive Programming St Andrews (CPSTA)</h1>
