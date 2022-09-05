@@ -30,7 +30,7 @@ We are open to all irrespecitve of major or coding experience - the point is to 
 
 ## St Andrews Online Judge (STOAJ)
 
-Historically we used the HackerRank platform for our contests. However, we plan to migrate to our own online judge as this allows us to have a platform that is tailored for our needs. The source code for STAOJ and information regarding contrubting towards the development of STAOJ can be viewed here: https://github.com/CP-STA/STAOJ. Furthermore, please email or message us on our Discord page regarding any suggestions or changes to STAOJ.
+Historically we used the HackerRank platform for our contests. However, we plan to migrate to our own online judge as this allows us to have a platform that is tailored for our needs. The source code for STAOJ and information regarding contrubting towards the development of STAOJ can be viewed [here](https://github.com/CP-STA/STAOJ). Furthermore, please email or message us on our Discord page regarding any suggestions or changes to STAOJ.
 
 ## The Contest
 
